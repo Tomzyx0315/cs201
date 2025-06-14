@@ -1,2 +1,6 @@
 # cs201
- class github repository
+这是 章宇轩 物理学院 的cs201数算课程repository
+
+code文件夹中的内容是在期末复习阶段刷过的题目，平时练习的题目大多散佚(bushi
+
+cheatsheet顾名思义就是cheatsheet，不仅有本学期的内容，也结合了一些计概部分的内容，字体小一点是可以在10页纸之内打印下来的
